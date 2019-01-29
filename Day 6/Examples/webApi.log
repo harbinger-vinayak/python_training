@@ -1,0 +1,5 @@
+DEBUG     : Complete url is: https://www.quandl.com/api/v3/datasets/BSE1/BOM531219.json?api_key=fKXsYh9Qi9ySbS8X6pNh
+DEBUG     : Starting new HTTPS connection (1): www.quandl.com:443
+DEBUG     : https://www.quandl.com:443 "GET /api/v3/datasets/BSE1/BOM531219.json?api_key=fKXsYh9Qi9ySbS8X6pNh HTTP/1.1" 404 131
+DEBUG     : {"quandl_error":{"code":"QECx02","message":"You have submitted an incorrect Quandl code. Please check your Quandl codes and try again."}}
+ERROR     : Error: response type<Response [404]>

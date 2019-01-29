@@ -1,0 +1,10 @@
+infile = open('test.txt', 'r')
+# print infile.read()
+# print infile.readline(1)
+# print infile.readlines()
+
+# infile.seek(1)
+# infile.write('Vinayak')
+# infile.writelines('Welcome to batch')
+# infile.seek(5)
+print infile.read()
